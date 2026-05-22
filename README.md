@@ -1,17 +1,18 @@
-# hi, I am M
-eghal 
-beginner developer
-learning coding and content creation 
-preparing for summer girls code internship 2026
-## currently learning
-HTML
-CSS
-JavaScript
-Github
+# Hi, I am Meghal 👋
 
-## My goals
-BUIld real projects 
-learn web develop
-grow in tech
+🌸 Beginner developer  
+💻 Learning coding and content creation  
+🚀 Preparing for Summer Girls Code Internship 2026  
 
-thanks for visiting my profile
+## Currently Learning
+- HTML
+- CSS
+- JavaScript
+- GitHub
+
+## My Goals
+- Build real projects
+- Learn web development
+- Grow in tech
+
+✨ Thanks for visiting my profile
