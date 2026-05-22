@@ -8,11 +8,13 @@
 - HTML
 - CSS
 - JavaScript
-- GitHub
+- Git & github
 
 ## My Goals
 - Build real projects
 - Learn web development
 - Grow in tech
+- contribute to open source
 
-✨ Thanks for visiting my profile
+## Connect with Me
+- Github : https://github.com/meghalsaxena
